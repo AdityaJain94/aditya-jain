@@ -1,76 +1,59 @@
-# 👋 Hello, I'm Aditya Jain
-
-## 💻 Full-Stack Developer | 🚀 Open Source Enthusiast | 🌱 Continuous Learner
-
-I build things for the web and contribute to open source. Currently focusing on [your current focus/project/technology].
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaJain94&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaJain94&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Aditya Jain's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-jain&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
-## 🔧 Technologies & Tools
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+</p>
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-jain&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
 
-## ✨ Featured Projects
+<div align="center">
+  <img src="https://komarev.com/ghpvcounter/?username=aditya-jain&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
 
-<a href="https://github.com/AdityaJain94/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaJain94&repo=project-1&theme=radical" />
-</a>
-<a href="https://github.com/AdityaJain94/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaJain94&repo=project-2&theme=radical" />
-</a>
+<div align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
 
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-
-## 📊 This week I spent my time on
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   9 hrs 45 mins   ███████████░░░░░░░   45.29% 
-React        8 hrs 19 mins   █████████░░░░░░░░░   38.67% 
-Python       1 hr 12 mins    █░░░░░░░░░░░░░░░░░   5.63% 
-Markdown     59 mins         █░░░░░░░░░░░░░░░░░   4.62% 
-JSON         52 mins         █░░░░░░░░░░░░░░░░░   4.06%
-```
-<!--END_SECTION:waka-->
-
-## 🎮 When I'm not coding
-
-- 📚 Reading [book you're currently reading]
-- 🎸 Playing [instrument/game/sport]
-- 🌍 Traveling and exploring new places
-
-### 🎯 Goals for 2025
-
-- [ ] Contribute to 5 major open source projects
-- [ ] Learn [new technology]
-- [ ] Complete [certification/course]
-- [ ] Build a [project idea]
-
-<!-- Interactive Elements -->
-
-<details>
-  <summary>📈 More GitHub Stats</summary>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJain94&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaJain94&theme=radical&column=7" alt="trophy" />
-</details>
-
-<details>
-  <summary>🤔 Random Dev Joke</summary>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</details>
-
-<!-- GitHub Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvcounter/?username=AdityaJain94&color=brightgreen)
-
-<!-- Snake animation -->
-![Snake animation](https://github.com/YOUR_USERNAME/AdityaJain94/blob/output/github-contribution-grid-snake.svg)
+<!-- For the Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditya-jain/aditya-jain/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditya-jain/aditya-jain/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aditya-jain/aditya-jain/output/github-contribution-grid-snake.svg">
+</picture>
